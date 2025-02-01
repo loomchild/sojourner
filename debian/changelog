@@ -1,3 +1,9 @@
+sojourner (0.3.10) fremantle; urgency=low
+
+  * Added conference data for FOSDEM 2025.
+
+ -- Jarek Lipski <pub@loomchild.net>  Sat, 1 Feb 2025 10:30:00 +0100
+
 sojourner (0.3.9) fremantle; urgency=low
 
   * Used schedule proxy, since TLS version not supported.
